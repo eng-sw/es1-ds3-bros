@@ -456,3 +456,4 @@ Thumbs.db
 #######################
 mvnw**
 *.iml
+/HTML5Application/nbproject/private/
